@@ -72,7 +72,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [TabMerger](https://github.com/lbragile/TabMerger) - Merges your tabs into one location to save memory usage and increase your productivity.
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscripts which are a little computer programs that can add various elements to extend web pages.
-- [Taskade](https://chrome.google.com/webstore/detail/taskade-team-task-notes-a/hcobdfnjjaceclfdjpmmpiknimccjpmf) - Team task list, notes and chat, all in one app.
+- [Taskade](https://chromewebstore.google.com/detail/taskade-ai-agents-chat-bo/hcobdfnjjaceclfdjpmmpiknimccjpmf) - AI-native workspace with built-in AI agents, task automation, and real-time collaboration for teams.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Probably the best adblocker for chrome there is.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.
