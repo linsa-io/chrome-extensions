@@ -36,6 +36,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.
+- [CiteMe](https://citeme.app) - AI-powered academic citation generator that searches 11+ databases and formats references in 40+ citation styles including APA, MLA, Chicago, Harvard, and IEEE.
 - [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.
 - [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues).
 - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
