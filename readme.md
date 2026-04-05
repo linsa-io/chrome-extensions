@@ -88,6 +88,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
 
+## Productivity
+
+- [Ajusta](https://chromewebstore.google.com/detail/ajusta-ai-resume-optimizer/lehpkebifecedjbmhdghjbgalbafdjcp) - AI-powered resume optimizer that tailors your resume to any job description for higher ATS scores and more interviews.
+
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
