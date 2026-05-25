@@ -88,6 +88,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
 
+## Language & Translation
+
+- [Mirlo](https://github.com/BoxcarsAI/mirlo) - Replaces words on web pages with translations in the language you're learning; runs on-device using Chrome's Translator API. No accounts, no tracking.
+- [Read Frog](https://github.com/mengxi-ream/read-frog) - Immersive translation extension with bilingual side-by-side display and vocabulary tools. Open source.
+
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
