@@ -29,6 +29,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
 - [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
 
+- [URL Environment Switcher](https://github.com/ttcd77/url-switcher) - One-click toggle between localhost, staging, and production URLs. Free, open-source Chrome extension (Manifest V3).
 ## General
 
 - [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
