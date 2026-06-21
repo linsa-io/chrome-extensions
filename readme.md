@@ -68,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh) - Syntax Highlighter.
 - [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 - [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
+- [Stowtab](https://github.com/gilleswainrib-ext-boop/stowtab) - Local-first tab manager that groups tabs by domain, dedupes, suspends with the native API, saves sessions and offers fuzzy search; 3 permissions, no host access and no network calls.
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 - [Tabb](https://chrome.google.com/webstore/detail/tabb/lckpgdmcdbbcbcopmenpielppdipkpef) - Search, save, and manage your tabs, history, and bookmarks.
 - [TabMerger](https://github.com/lbragile/TabMerger) - Merges your tabs into one location to save memory usage and increase your productivity.
