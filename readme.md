@@ -27,6 +27,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Make any webpage feel like an artboard.
 - [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
 - [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
+- [Review2Idea Competitor Analyzer](https://github.com/hijabcantic-dotcom/review2idea-competitor-analyzer) - Opens public App Store and Google Play listings in a workflow that clusters repeated competitor complaints with source evidence.
 - [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
 
 ## General
