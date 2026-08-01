@@ -5,6 +5,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Developer
 
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
+- [BugShot](https://github.com/SinhyeokKang/bugshot-2) - Captures a bug as a complete report — screenshot or recording, plus console, network and user-action logs — and files it to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp or Slack.
 - [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
 - [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) — Replaces your new tab with curated latest dev articles.
