@@ -21,6 +21,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to Chrome Dev tools.
 - [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) - Adds debugging for Redux to Chrome Dev tools.
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies the GitHub interface and adds useful features.
+- [Skim](https://github.com/skim-md/skim) - Free, open-source markdown viewer for the browser with live reload, math, diagrams, and no telemetry.
 - [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 - [Vuejs Developer Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Adds Vuejs debugging tools to Chrome Dev tools.
 - [What's New on GitHub](https://github.com/flawyte/whats-new-github) - Helps you see easily what happened on GitHub since your last visit.
