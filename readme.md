@@ -39,6 +39,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator that searches 11+ databases and formats references in 40+ citation styles including APA, MLA, Chicago, Harvard, and IEEE.
 - [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.
 - [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Extension that deletes cookies as soon as the tab closes. [Documentation](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/Documentation) and [FAQ](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete/wiki/FAQ:-Common-Questions-and-Issues).
+- [OneTake](https://chromewebstore.google.com/detail/onetake-screen-recording/khmkeidanahmnggpgepdlflpokipdbih) - Records a tab, a window or the whole screen and gives you a share link the moment you stop. No account needed to record or to watch.
 - [cVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en) - Vim-like bindings.
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Enables Dark Mode on websites like Facebook, Medium, Twitter, Google Maps and GitHub.
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
