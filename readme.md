@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.
 - [Video Speed Controller](https://github.com/igrigorik/videospeed) - HTML5 video speed controller.
+- [VidWords](https://vidwords.com/extension) - Captures the transcript of the YouTube video in the current tab and exports it as TXT, SRT, VTT or Word, including on videos whose YouTube transcript panel is missing.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
 - [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) - Provides userscript support for browsers.
 - [Violentmonkey](https://github.com/violentmonkey/violentmonkey) - Provides userscripts support for browsers.
