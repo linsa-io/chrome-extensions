@@ -56,6 +56,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
 - [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
+- [Noctis](https://noctis.c0nn3ct.info) - Routes browser traffic through your own proxy server over VLESS Reality, VMess, Trojan, Shadowsocks, Hysteria2, TUIC or WireGuard, with per-host routing rules.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
