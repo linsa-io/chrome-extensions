@@ -55,6 +55,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [HTTPS everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypts you communication with many major websites thus making browsing more secure.
 - [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
 - [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.
+- [Latch](https://github.com/saksham10arora-dotcom/latch) - Keeps a YouTube lecture in full screen; Escape does nothing and leaving takes a deliberate hold.
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
