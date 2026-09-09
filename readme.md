@@ -58,6 +58,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
+- [Not for You](https://chrome.google.com/webstore/detail/not-for-you/pakdneaipkfgaahgbafblmdebfoadjca) - Removes the algorithm from every major social media platform. Turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see.
+- [Not for You](https://github.com/preziotte/not-for-you) - Removes the algorithm from every major social media platform. Turns off the recommendation feeds on YouTube, Instagram, TikTok, X, Reddit, LinkedIn, Threads and Facebook, so the platforms stop deciding what you see.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
 - [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
