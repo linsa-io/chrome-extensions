@@ -28,6 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lovely forks](https://github.com/musically-ut/lovely-forks) - Show notable forks of GitHub repositories under their names.
 - [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
 - [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
+- [Screen Ruler](https://chromewebstore.google.com/detail/jfbbgijjljfbolelfkopkhbfjajjampm) - Measure pixel distances, inspect any element, and edit real CSS live with a diff you can copy or revert.
 
 ## General
 
