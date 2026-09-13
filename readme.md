@@ -91,5 +91,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-jobsearch:
 - [Job-helper](https://github.com/phoenix-deeplot/job-helper) -Automatically extract job responsibilities and requirements on job sites; use AI to compare your resume and score job match.
