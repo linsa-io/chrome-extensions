@@ -30,7 +30,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [PR Monitor](https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng) - Browser extension to keep track of incoming and outgoing PRs. ([Code](https://github.com/fwouts/prmonitor))
 
 ## General
-
 - [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
@@ -92,3 +91,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+- [Job-helper](https://github.com/phoenix-deeplot/job-helper) -Automatically extract job responsibilities and requirements on job sites; use AI to compare your resume and score job match.
