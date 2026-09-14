@@ -87,6 +87,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
+- [CoinPeek](https://chromewebstore.google.com/detail/coinpeek-bitcoin-price-ba/konlmcdlofpoegdkbjocdfojejmfkfbo) - Keeps the live Bitcoin price in the toolbar badge, with Ethereum prices, network fees and a BTC/ETH/USD converter.
+
+## Productivity
+
+- [Curfew](https://chromewebstore.google.com/detail/curfew/obnikdokealeimpbhfbjhpdmfcgbgcje) - Enforces daily time budgets per site at the network level and charges a solved puzzle for relaxing a rule instead of a click.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
