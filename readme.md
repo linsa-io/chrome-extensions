@@ -68,7 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh) - Syntax Highlighter.
 - [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 - [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
-- [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
+- [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from. - [SummarizAI](https://summarizai.ink) - Chrome extension for AI summary, chapters, chat, and Study flashcards on YouTube watch pages.
 - [Tabb](https://chrome.google.com/webstore/detail/tabb/lckpgdmcdbbcbcopmenpielppdipkpef) - Search, save, and manage your tabs, history, and bookmarks.
 - [TabMerger](https://github.com/lbragile/TabMerger) - Merges your tabs into one location to save memory usage and increase your productivity.
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
