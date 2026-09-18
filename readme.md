@@ -71,6 +71,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 - [Tabb](https://chrome.google.com/webstore/detail/tabb/lckpgdmcdbbcbcopmenpielppdipkpef) - Search, save, and manage your tabs, history, and bookmarks.
 - [TabMerger](https://github.com/lbragile/TabMerger) - Merges your tabs into one location to save memory usage and increase your productivity.
+- [TabRollback](https://chromewebstore.google.com/detail/tabrollback/piclhojogmmlphlaffhhlihmpnnljoel) - Local-first Chrome tab recovery points with restore rehearsal and encrypted exports. Free core (14-day/60 points); optional Pro (365-day/500).
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscripts which are a little computer programs that can add various elements to extend web pages.
 - [Taskade](https://chromewebstore.google.com/detail/taskade-ai-agents-chat-bo/hcobdfnjjaceclfdjpmmpiknimccjpmf) - AI-native workspace with built-in AI agents, task automation, and real-time collaboration for teams.
