@@ -2,6 +2,10 @@
 
 _Please read [contribution guidelines](contributing.md) before contributing._
 
+## Note-taking
+
+- [MomentNotes](https://chromewebstore.google.com/detail/momentnotes-youtube-notes/ecpnmnkndojeaemoeipjoipckdhginfa) - Adds timestamped notes to YouTube videos and exports them as Markdown.
+
 ## Developer
 
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
