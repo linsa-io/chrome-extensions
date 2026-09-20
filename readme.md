@@ -4,6 +4,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Developer
 
+- [ProofStamp](https://chromewebstore.google.com/detail/proofstamp-timestamped-ev/fpoagkmhedndoeoekabbjbofpfgmhdhn) - Captures a page region as a PDF stamped with the URL, page title and capture time, for QA and bug-report evidence.
 - [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) - Adds autocomplete for GitHub's search bar.
 - [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
 - [Chrome Dev Tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Simply adds night theme to Chrome dev tools.
