@@ -70,6 +70,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 - [Stylus](https://github.com/openstyles/stylus/) - Lets you customize websites to any color scheme you like with a lot of styles that you can already choose from.
 - [Tabb](https://chrome.google.com/webstore/detail/tabb/lckpgdmcdbbcbcopmenpielppdipkpef) - Search, save, and manage your tabs, history, and bookmarks.
+- [TabBunker](https://chromewebstore.google.com/detail/tabbunker/gcfnjekbodlabpmiejgandamcpcgapgm) - Saves the tabs you pick to a local vault and keeps a JSON backup file in Downloads, so the list survives uninstalling the extension.
 - [TabMerger](https://github.com/lbragile/TabMerger) - Merges your tabs into one location to save memory usage and increase your productivity.
 - [Tabs Backup & Restore](https://chrome.google.com/webstore/detail/tabs-backup-restore/dehocbglhkaogiljpihicakmlockmlgd) - Backup an entire Chrome session (windows and tabs).
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - Is used to run userscripts which are a little computer programs that can add various elements to extend web pages.
