@@ -86,6 +86,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Search by Image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search.
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
+- [RemoteHunt](https://chromewebstore.google.com/detail/hndndpgkabpgbejjkhhnofnjidbhdoam?utm_source=linsa-chrome-extensions) - Shows if a remote job can hire in your country and how well your resume fits.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
