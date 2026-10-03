@@ -55,6 +55,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [HTTPS everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypts you communication with many major websites thus making browsing more secure.
 - [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
 - [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.
+- [Leap](https://chromewebstore.google.com/detail/leap-%E2%80%94-sidebar-tabs-space/idcampjcfnjdhmpmakkggchhojeknfdb?utm_source=github&utm_medium=awesome-list&utm_campaign=linsa-chrome-extensions) - Arc-style Spaces in the Chrome side panel: saved tabs stay after you close them, with nested folders and pinned daily sites. Free, no sign-up.
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
