@@ -85,6 +85,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Toast.log](https://toastlog.com/) - Get console errors right on your page.
 - [Search by Image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search.
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
+- [Web Highlighter](https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe) - Browser extension for local-first web page highlighting and annotation with multi-color support, inline notes, Weava CSV import, and export to JSON, CSV, or Markdown.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
 
