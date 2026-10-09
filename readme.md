@@ -44,6 +44,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 - [Pinboard Pro](https://github.com/richardkall/pinboard-pro-chrome-extension) - Google Chrome extension for Pinboard.in.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
+- [EarDub](https://www.eardub.com) - YouTube dubbing extension that turns a video's captions into a synced AI voice-over in your language.
 - [Empty New Tab Page (Black)](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp) - Change new tab to open empty black page instead of default top sites.
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
