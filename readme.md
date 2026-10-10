@@ -56,6 +56,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [KeePass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) - Adds readonly KeePass functionality to your browser and does not require KeePass to be installed.
 - [KeePass Tusk](https://github.com/suBDavis/Tusk) - KeePass-compatible browser extension for filling passwords.
 - [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) - Open, copy or bookmark multiple links at the same time.
+- [MD Publisher](https://alapha888.github.io/md-publisher-extension/) - Renders Markdown in WeChat Official Account styles with one-click clean copy for Zhihu and Juejin.
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
@@ -85,6 +86,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Toast.log](https://toastlog.com/) - Get console errors right on your page.
 - [Search by Image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search.
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
+- [Web Highlighter](https://microsoftedge.microsoft.com/addons/detail/highlighter/ooocjgnapglfljdgojdoacjdedpaplhe) - Local-first extension to highlight and annotate web pages; highlights persist across revisits, with notes and export to JSON, CSV, or Markdown, and no account needed.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
 
