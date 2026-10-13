@@ -35,6 +35,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
+- [Avorythm](https://chromewebstore.google.com/detail/avorythm-live-translation/kbdbbedijheicmmnmoidamdaodjbhjje) - Open-source AI dubbing and bilingual captions for selected-tab audio, using your own Gemini API key. ([Source](https://github.com/msmahdinejad/avorythm))
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Most comprehensive paywall bypasser on the internet. Bypass paywall of many news sites.
 - [CiteMe](https://citeme.app) - AI-powered academic citation generator that searches 11+ databases and formats references in 40+ citation styles including APA, MLA, Chicago, Harvard, and IEEE.
 - [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh) - Control your cookies! Auto-delete unused cookies from your closed tabs while keeping the ones you want.
