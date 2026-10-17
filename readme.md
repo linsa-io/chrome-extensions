@@ -32,6 +32,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## General
 
 - [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - Simple, powerful tab manager.
+- [SheetSpeed](https://chromewebstore.google.com/detail/ljlmgielacploapelnjhodicgbjipcaa) - Excel-style keyboard shortcuts and trace precedents for Google Sheets.
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [1Password extension](https://chrome.google.com/webstore/detail/1password-extension-deskt/aomjjhallfgjeglblehebfpbcfeobpgk) - Extends the 1Password app.
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/).
