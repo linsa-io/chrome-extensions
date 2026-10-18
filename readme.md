@@ -48,6 +48,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
 - [Figma Figjets Panel](https://chrome.google.com/webstore/detail/figma-figjets-panel/diljoblapaochhcgfonabkjihknfmllk) - Plugins Panel for Figma.
+- [Fog Mode](https://whatisbrainfog.com/fog-mode/) - Declutter articles, use a reading guide, reduce motion, auto-scroll, play background noise, take breaks and save your place.
 - [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Get things done offline with the Google Docs family of products.
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
 - [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
