@@ -65,6 +65,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Reddit Enhancement Suite](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) - Suite of modules that enhance your Reddit browsing experience.
 - [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect pages based on user-defined rules. Examples [here](https://github.com/einaregilsson/Redirector/wiki/Examples-From-Help-File) and [here](https://github.com/einaregilsson/Redirector/wiki/Some-Examples).
 - [Saka](https://saka.io/) - Fuzzy search through active Chrome tabs.
+- [ScreenGuard](https://github.com/orvi2014/screenguard) - Blurs emails, card numbers and API keys while you screen share, and warns before risky links open.
 - [Sight](https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh) - Syntax Highlighter.
 - [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
 - [Smart HTTPS](https://github.com/ilGur1132/Smart-HTTPS) - Automatically changes HTTP addresses to the secure HTTPS, and if loading encounters error, reverts it back to HTTP.
