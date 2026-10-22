@@ -92,3 +92,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+- [Retrowert](https://chromewebstore.google.com/detail/llnmjaffkfdpkggjjdlkedpehpceeohe) - Shows the market value of retro video games and Pokémon cards next to listing prices on kleinanzeigen.de and ebay.de, with a bargain filter.
