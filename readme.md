@@ -87,6 +87,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
+- [Yeet](https://github.com/shivam-taneja/yeet) - Cross-posts between X and Threads in both directions, with text and up to 4 images, running locally with no API keys.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
