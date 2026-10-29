@@ -59,6 +59,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [NooBoss](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [NooBoss](https://github.com/AInoob/NooBoss) - Powerful Extensions Manager and Userscript Manager with many unique features.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
+- [Open Stay Focused](https://chromewebstore.google.com/detail/open-stay-focused/pmfcncldogcmehkdmoekagmlgcjcgpem) - Shares daily time budgets across distracting websites with live countdowns, focus sessions, and local-only usage statistics ([Code](https://github.com/xingwudao/open-stay-focused)).
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) - Lets you quickly switch between current and recently closed chrome tabs.
 - [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
