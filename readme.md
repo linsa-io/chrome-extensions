@@ -84,6 +84,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Can identify the technologies that were used to build a particular website you are viewing.
 - [Toast.log](https://toastlog.com/) - Get console errors right on your page.
 - [Search by Image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search.
+- [Reverse Image Search Anywhere](https://reverseimage.app/) - Free, open-source extension for searching Google Lens, Yandex, Bing and TinEye from an image, including images without a usable source URL.
 - [Web Archives](https://github.com/dessant/web-archives) - Browser extension for viewing archived and cached versions of web pages.
 - [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 - [SimpleLogin](https://github.com/simple-login/browser-extension) - Protect your email address using email alias. 100% open source and can be self-hosted.
