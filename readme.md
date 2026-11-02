@@ -76,6 +76,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Taskade](https://chromewebstore.google.com/detail/taskade-ai-agents-chat-bo/hcobdfnjjaceclfdjpmmpiknimccjpmf) - AI-native workspace with built-in AI agents, task automation, and real-time collaboration for teams.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Probably the best adblocker for chrome there is.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
+- [Unseen](https://chromewebstore.google.com/detail/fibpgcjlnnookmhclhpmhmajileledhd) - Blocks email tracking pixels in Gmail on the web, so senders can't see when you open their emails.
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.
 - [Video Speed Controller](https://github.com/igrigorik/videospeed) - HTML5 video speed controller.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - Adds powerful vim keybindings to Chrome. Navigating pages with hjkl, clicking on links from your keyboard and a lot more.
