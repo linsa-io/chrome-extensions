@@ -11,6 +11,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [DevTools Theme: Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Highly customized dark theme for Devtools.
 - [JSON formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
+- [KaijuConverter Extension](https://github.com/PabloCirre/kaijuconverter-extension) - Quick file and media conversions (PDF, image, audio, video) directly from your browser toolbar. ([Web](https://kaijuconverter.com/integrations))
 - [Kuker](https://chrome.google.com/webstore/detail/kuker/glgnienmpgmfpkigngkmieconbnkmlcn) - Debug applications made with React, Redux, Angular, Vue and many more.
 - [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
