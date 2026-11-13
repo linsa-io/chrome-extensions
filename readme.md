@@ -48,6 +48,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij) - Change new tab to open empty page instead of default top sites.
 - [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Adds many new features to the Steam website.
 - [Figma Figjets Panel](https://chrome.google.com/webstore/detail/figma-figjets-panel/diljoblapaochhcgfonabkjihknfmllk) - Plugins Panel for Figma.
+- [Glasp](https://chromewebstore.google.com/detail/glasp-web-highlighter-pdf/blillmbchncajnhkjfdnincfndboieik) - Highlights web pages, PDFs and YouTube videos, and exports the highlights to Markdown, Notion, Obsidian and Roam.
 - [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Get things done offline with the Google Docs family of products.
 - [Google Search Navigator](https://chrome.google.com/webstore/detail/google-search-navigator/cohamjploocgoejdfanacfgkhjkhdkek) - Adds keyboard shortcuts to Google Search.
 - [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
